@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMENU4CSE20215(BALLA HEMANTH)
 - 👀 I’m interested in anime.
-- 🌱 I’m currently learning JAVA, C++
+- 🌱 I’m currently learning JAVA, C++,Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hemanthballa1861@gmail.com
 
